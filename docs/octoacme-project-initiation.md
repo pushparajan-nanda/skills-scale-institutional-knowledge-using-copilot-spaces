@@ -33,12 +33,14 @@ To prevent loss of accountability, clearly assign these roles during initiation:
 - **Product Manager**: _[Name]_ - Defines outcomes and measures success
 
 ### Extended Roles (Assign as Needed)
-- **Scrum Master**: _[Name]_ - Facilitates Agile ceremonies (if using Scrum)
-- **Business Analyst**: _[Name]_ - Gathers and documents requirements
-- **Release Manager**: _[Name]_ - Oversees release planning and deployment
+- **Scrum Master**: _[Name]_ - Facilitates Agile ceremonies (required for Scrum/Agile projects; optional for Waterfall or ad-hoc work)
+- **Business Analyst**: _[Name]_ - Gathers and documents requirements (recommended for complex business domains)
+- **Release Manager**: _[Name]_ - Oversees release planning and deployment (required for multi-team or complex deployments)
 - **Lead Developer**: _[Name]_ - Technical leadership and architecture
 - **QA Lead**: _[Name]_ - Quality assurance strategy and execution
 - **Key Stakeholders**: _[Names and areas]_ - Decision authority and approval gates
+
+**Note:** Role assignment depends on project size, complexity, and methodology. Small projects may combine roles (e.g., Project Manager + Scrum Master), while large initiatives may need dedicated resources for each.
 
 ### Decision Authority Matrix
 

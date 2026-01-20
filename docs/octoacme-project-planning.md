@@ -51,6 +51,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Coordinate resource allocation
 
 ### Scrum Master (if applicable)
+**Note:** Assign this role for Scrum or Agile projects. For Waterfall or ad-hoc work, the Project Manager may fulfill these responsibilities.
+
 - Facilitate sprint planning ceremonies
 - Ensure backlog items meet Definition of Ready
 - Coach team on estimation techniques
