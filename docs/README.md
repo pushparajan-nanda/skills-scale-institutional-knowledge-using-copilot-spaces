@@ -60,7 +60,7 @@ Capture learnings and convert them into actionable improvements.
 
 ## Core Personas & Roles
 
-Understanding roles and responsibilities ensures clear ownership and effective collaboration.
+Understanding roles and responsibilities ensures clear ownership and effective collaboration. **See [Roles and Personas](octoacme-roles-and-personas.md) for complete role definitions.**
 
 ### **Project Manager (PM)**
 Coordinates delivery activities, manages schedules, risks, and communications.
@@ -75,6 +75,34 @@ Defines what should be built to deliver customer and business value.
 - **Responsibilities**: Define problem statements and success metrics, prioritize roadmap and backlog, validate solutions through user research
 - **Goals**: Maximize customer value and impact, make data-driven prioritization decisions
 - **Communication**: Weekly alignment with PM and engineering leads, roadmap updates, acceptance criteria
+
+### **Product Owner**
+Defines product vision and priorities, ensures business value in deliverables.
+
+- **Responsibilities**: Prioritize product backlog, make scope decisions, accept/reject work based on criteria
+- **Goals**: Maximize value delivered by team, maintain clear prioritized backlog
+- **Communication**: Backlog refinement, sprint reviews, acceptance criteria reviews
+
+### **Scrum Master**
+Facilitates Agile ceremonies and removes impediments.
+
+- **Responsibilities**: Facilitate Scrum ceremonies, remove blockers, coach on Agile practices
+- **Goals**: Enable team effectiveness, ensure process adherence, drive continuous improvement
+- **Communication**: Daily standups, retrospectives, team health metrics
+
+### **Business Analyst**
+Bridges business and technical teams through requirements analysis.
+
+- **Responsibilities**: Gather requirements, document processes, write user stories, facilitate workshops
+- **Goals**: Clear, complete requirements, bridge communication gaps
+- **Communication**: Requirements docs, process flows, acceptance criteria clarifications
+
+### **Release Manager**
+Oversees release planning and successful deployments.
+
+- **Responsibilities**: Plan release schedules, manage deployment process, coordinate releases, maintain runbooks
+- **Goals**: Reliable on-time releases, minimize deployment risks
+- **Communication**: Release schedules, go/no-go decisions, post-deployment reports
 
 ### **Developers**
 Design, build, test, and deliver software components.
